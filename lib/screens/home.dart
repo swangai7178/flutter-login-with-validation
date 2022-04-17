@@ -86,7 +86,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                   shape: BoxShape.circle,
                                 ),
                                 child: const Image(
-                                    image: AssetImage('assets/image.png'),
+                                    image: AssetImage('ima/image.jpg'),
                                     fit: BoxFit.cover),
                               ),
                             ),
